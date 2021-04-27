@@ -1,0 +1,12 @@
+
+
+mkdir papka2
+cd papka2
+mkdir pap2.1 pap2.2 pap2.3
+cd pap2.1
+touch 1.txt 2.txt 3.txt 4.json 5.json
+mkdir p1 p2 p3
+ls -l
+mv 4.json 5.json /home/user/'Рабочий стол'/papka2/pap2.2
+cd /home/user/'Рабочий стол'/papka2/pap2.2
+ls -l
