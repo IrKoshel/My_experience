@@ -1,0 +1,45 @@
+# My_Resume
+
+{
+  "FirstName": "Irina",
+  "LastName": "Koshel",
+  "Age": 38,
+  "Address": {
+      "StreetAddress": "Sovhoznaya str., 1a",
+      "City": "Minsk",
+      "Country": "Republic of Belarus",
+      "PostCode": 223050
+      },
+  "Contacts": {
+           "PhoneNumber": "+375 (29) 3200773",
+           "Email": "irkoshel@mail.ru",
+           "Telegram": "@Ikoshe"
+           },  
+  "My_experience": "https://github.com/IrKoshel/My_experience",
+  "Education": [
+                  {
+                    "First Higher Education": {
+                           "Educational institution": "ISEU by A.D.Sakharov", 
+                           "Specialty": "Environmental monitoring and audit",
+                           "Time": "2000-2005"
+                     },
+                    "Second Higher Education": {
+                           "Educational institution": "BSEU", 
+                           "Specialty": "Accounting and control at the enterprise",
+                           "Time": "2015-2017"
+                    }
+                  }
+                ],
+   "Extra education": [
+                 "Author's QA courses  by Vadim Ksendzov",
+                 "Testing theory course on YouTube: 'Artsiom Rusau QA Life'",
+                 "SQL Course on https://www.sololearn.com",
+                 "English course on https://2english.by"
+                 ],
+ "QA Books": ["Savina R.", "Kulikov S."],    
+    "Hobbies": [
+            "reading",
+            "traveling",
+            "sports"
+    ]
+ }  
