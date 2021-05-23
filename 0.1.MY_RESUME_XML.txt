@@ -1,0 +1,38 @@
+<root>
+    <FirstName>Irina</FirstName>
+    <LastName>Koshel</LastName>
+    <Age>38</Age>
+    <Address>
+        <StreetAddress>Sovhoznaya str., 1a</StreetAddress>
+        <City>Minsk</City>
+        <Country>Republic of Belarus</Country>
+        <PostCode>223050</PostCode>
+    </Address>
+    <Contacts>
+        <PhoneNumber>+375 (29) 3200773</PhoneNumber>
+        <Email>irkoshel@mail.ru</Email>
+        <Telegram>@Ikoshe</Telegram>
+    </Contacts>
+    <My_experience>https://github.com/IrKoshel/My_experience</My_experience>
+    <Education>
+        <First_Higher_Education>
+            <Educational_institution>ISEU by A.D.Sakharov</Educational_institution>
+            <Specialty>Environmental monitoring and audit</Specialty>
+            <Time>2000-2005</Time>
+        </First_Higher_Education>
+        <Second_Higher_Education>
+            <Educational_institution>BSEU</Educational_institution>
+            <Specialty>Accounting and control at the enterprise</Specialty>
+            <Time>2015-2017</Time>
+        </Second_Higher_Education>
+    </Education>
+    <Extra_education>Author's QA courses  by Vadim Ksendzov</Extra_education>
+    <Extra_education>Testing theory course on YouTube: 'Artsiom Rusau QA Life'</Extra_education>
+    <Extra_education>SQL Course on https://www.sololearn.com</Extra_education>
+    <Extra_education>English course on https://2english.by</Extra_education>
+    <QA_Books>Savina R.</QA_Books>
+    <QA_Books>Kulikov S.<QA_Books>
+    <Hobbies>reading</Hobbies>
+    <Hobbies>traveling</Hobbies>
+    <Hobbies>sports</Hobbies>
+ </root>
