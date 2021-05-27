@@ -3,7 +3,6 @@
 {
   "FirstName": "Irina",
   "LastName": "Koshel",
-  "Age": 38,
   "Address": {
       "StreetAddress": "Sovhoznaya str., 1a",
       "City": "Minsk",
