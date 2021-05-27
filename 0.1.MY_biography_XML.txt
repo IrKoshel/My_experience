@@ -1,7 +1,6 @@
 <root>
     <FirstName>Irina</FirstName>
     <LastName>Koshel</LastName>
-    <Age>38</Age>
     <Address>
         <StreetAddress>Sovhoznaya str., 1a</StreetAddress>
         <City>Minsk</City>
